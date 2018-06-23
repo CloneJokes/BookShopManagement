@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\BookShopManagement\BookShopManagement\obj\Debug\BookShopManagement.pdb
